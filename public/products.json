@@ -1,0 +1,48 @@
+[
+  {
+    "id": "wireless-earbuds-pro",
+    "name": "Wireless Bluetooth Earbuds Pro",
+    "category": "Electronics",
+    "sellingPrice": 2200,
+    "compareAtPrice": 3000,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500&auto=format&fit=crop&q=60",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=500&auto=format&fit=crop&q=60"
+    ],
+    "description": "High-fidelity wireless earbuds with active noise cancellation, deep bass, and long-lasting charging case battery.",
+    "features": [
+      "Bluetooth 5.3 ultra-stable connection",
+      "24-hour total playback with charging case",
+      "IPX4 sweat and splash resistant"
+    ],
+    "wholesalerOffers": [
+      { "supplierName": "Eastleigh Tech Hub", "wholesalePrice": 1550, "leadTime": "1 Day" },
+      { "supplierName": "CBD Direct Imports", "wholesalePrice": 1450, "leadTime": "2 Days" }
+    ],
+    "inStock": true
+  },
+  {
+    "id": "smart-watch-s8",
+    "name": "Smart Watch Series 8",
+    "category": "Wearables",
+    "sellingPrice": 3500,
+    "compareAtPrice": 4800,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500&auto=format&fit=crop&q=60"
+    ],
+    "description": "Sleek smartwatch featuring health monitoring, sports tracking, and Bluetooth calling.",
+    "features": [
+      "Heart rate & blood oxygen monitor",
+      "HD full-touch display",
+      "Multi-sport tracking modes"
+    ],
+    "wholesalerOffers": [
+      { "supplierName": "Gadget World Nairobi", "wholesalePrice": 2600, "leadTime": "1 Day" }
+    ],
+    "inStock": true
+  }
+]
